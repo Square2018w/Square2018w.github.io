@@ -1,0 +1,11 @@
+img[src*="github-contribution-grid-snake"],
+img[src*="shields.io"],
+img[src*="komarev.com"] {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    filter: none !important;
+    mask: none !important;
+}
+img[src*="shields.io"] {
+  background-color: transparent !important;
+}

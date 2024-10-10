@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>STM32G031 HUB</title>
+    <link href="/2024/08/17/G031_HUB_zh_CN/"/>
+    <url>/2024/08/17/G031_HUB_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>Host 已经被插满了(物理意义上)<br><img src="/img/Moment/IMG_20240817_163827.webp" alt=" "><br><img src="/img/Moment/IMG_20240817_164233.webp" alt=" "><br><img src="/img/Moment/IMG_20240817_215437.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>STM32</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>ST</tag>
+      
+      <tag>STM21</tag>
+      
+      <tag>VL</tag>
+      
+      <tag>HUB</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>VL822+VL162+STM32G031</title>
+    <link href="/2024/08/14/VL822_VL162_zh_CN/"/>
+    <url>/2024/08/14/VL822_VL162_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>沉金板子真好看</p><p><img src="/img/Moment/IMG_20240814_233519.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_233528.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_223340.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>VIA</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>VL</tag>
+      
+      <tag>HUB</tag>
+      
+      <tag>USBC</tag>
+      
+      <tag>VIA</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PW-Link HW 1.3</title>
+    <link href="/2024/08/14/PW_Link_zh_CN/"/>
+    <url>/2024/08/14/PW_Link_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>后续的后续…先看效果吧( )<br><img src="/img/Moment/mmexport1723632808529.webp" alt=" "><br><img src="/img/Moment/mmexport1723632805842.webp" alt=" "><br><img src="/img/Moment/mmexport1723632801454.webp" alt=" "><br><img src="/img/Moment/mmexport1723632803594.webp" alt=" "><br>感觉 0201+wlcsp 还是对我来说没啥难度，而且这次的排针焊的很饱满( )<br><img src="/img/Moment/mmexport1723632796202.webp" alt=" "><br>来个 HiFi 晶振的特写，不过这丝印是真的有点淡啊<br><img src="/img/Moment/IMG_20240814_125338.webp" alt=" "><br>这也是我的第二个小黑盒呢<br><img src="/img/Moment/IMG_20240814_131441.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_131441_1.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_131451.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_131518.webp" alt=" "><br>先看板子! 不过 wlcsp 边上的阻焊没有掉，是我没想到的( )<br><img src="/img/Moment/IMG_20240814_133212.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_144434.webp" alt=" "><br>刷点锡膏<br><img src="/img/Moment/IMG_20240814_154205.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_154215.webp" alt=" "><br>感觉还是很好焊的<br><img src="/img/Moment/IMG_20240814_162829.webp" alt=" "><br>差点以为晶振不起振<br><img src="/img/Moment/IMG_20240814_173129.webp" alt=" "><br>被上位机识别到了呢<br><img src="/img/Moment/IMG_20240814_202527.webp" alt=" "><br><img src="/img/Moment/IMG_20240814_202617.webp" alt=" "><br>这两就应该凑一对</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>PWLink</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>VL822 10G Demo</title>
+    <link href="/2024/08/13/VL822_zh_CN/"/>
+    <url>/2024/08/13/VL822_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>沉金板子真好看</p><p><img src="/img/Moment/IMG_20240813_195029.webp" alt=" "><br><img src="/img/Moment/IMG_20240813_195132.webp" alt=" "><br><img src="/img/Moment/IMG_20240813_195331.webp" alt=" "><br><img src="/img/Moment/IMG_20240813_201101.webp" alt=" "><br><img src="/img/Moment/IMG_20240813_201128.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>VIA</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>VL</tag>
+      
+      <tag>HUB</tag>
+      
+      <tag>USBC</tag>
+      
+      <tag>VIA</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ST-Link Rev2.1</title>
+    <link href="/2024/08/13/ST_Link_V2.1_zh_CN/"/>
+    <url>/2024/08/13/ST_Link_V2.1_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>上次画的2层板跑不满，只好画过个4层了<br><img src="/img/Moment/IMG_20240813_093358.webp" alt=" "><br><img src="/img/Moment/IMG_20240813_135759.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>ST-Link</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>USBC 10G HUB</title>
+    <link href="/2024/08/12/VL822_HUB_zh_CN/"/>
+    <url>/2024/08/12/VL822_HUB_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>沉金板子真好看</p><p><img src="/img/Moment/IMG_20240812_133643.webp" alt=" "><br><img src="/img/Moment/IMG_20240812_133651.webp" alt=" "><br><img src="/img/Moment/IMG_20240812_133704.webp" alt=" "><br><img src="/img/Moment/IMG_20240812_133839.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>VIA</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>VL</tag>
+      
+      <tag>HUB</tag>
+      
+      <tag>USBC</tag>
+      
+      <tag>VIA</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Debugger(x)</title>
+    <link href="/2024/08/11/Debugger_zh_CN/"/>
+    <url>/2024/08/11/Debugger_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>两件事，首先 PW-Link HW:1.2-1.3 可以直接搬板<br><img src="/img/Moment/IMG_20240810_233438.webp" alt=" "><br>然后就是我手贱把 V3 MINI 拆了<br><img src="/img/Moment/IMG_20240811_134153.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_012756.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_012816.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_012852.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_012912.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_020559.webp" alt=" "><br><img src="/img/Moment/IMG_20240811_204745.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>DAPLink</tag>
+      
+      <tag>PWLink</tag>
+      
+      <tag>ST-Link</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>VSCode!</title>
+    <link href="/2024/08/10/VSCode_CSS_zh_CN/"/>
+    <url>/2024/08/10/VSCode_CSS_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/img/Moment/Image_1723294064299.webp" alt="@Xyy"><br><img src="/img/Moment/Image_1723294064300.webp" alt="@Canmi"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Xyy</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Moment</tag>
+      
+      <tag>CSS</tag>
+      
+      <tag>Xyy</tag>
+      
+      <tag>VSCode</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ST-Link V3 MINI</title>
+    <link href="/2024/08/08/ST-Link_V3_MINI_zh_CN/"/>
+    <url>/2024/08/08/ST-Link_V3_MINI_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>幻想中，可能过几天忍不住就拆了<br><img src="/img/Moment/IMG_20240808_125352.webp" alt=" "><br><img src="/img/Moment/IMG_20240808_125356.webp" alt=" "><br><img src="/img/Moment/IMG_20240808_165345.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+      <tag>ST</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WCH-LinkE</title>
+    <link href="/2024/08/07/WCH-LinkE_Re_zh_CN/"/>
+    <url>/2024/08/07/WCH-LinkE_Re_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>想起来要了点 CH32 什么的，这下 LinkE 不吃灰了<br><img src="/img/Moment/Image_1723014139940.webp" alt=" "><br>来点 AWG22 的硅胶杜邦线!<br><img src="/img/Moment/IMG_20240807_141928.webp" alt=" "><br><img src="/img/Moment/IMG_20240807_143202.webp" alt=" "><br><img src="/img/Moment/IMG_20240807_143211.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>WCH</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>WCH</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WCH Sample</title>
+    <link href="/2024/08/07/WCH_zh_CN/"/>
+    <url>/2024/08/07/WCH_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>WCH，便宜好用<br><img src="/img/Moment/IMG_20240807_132634.webp" alt=" "><br>原厂出货还是很香的<br><img src="/img/Moment/IMG_20240807_132941.webp" alt=" "><br>不愧是没得卖的传说中的芯片，原来原厂出货丝印都不打<br><img src="/img/Moment/IMG_20240807_134546.webp" alt=" "><br>但是怎么说呢，WCHの东西他但凡有卖我都不会去要样，要几个运费死贵死贵的(x)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>WCH</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>WCH</tag>
+      
+      <tag>Moment</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>DreamSourceLab</title>
+    <link href="/2024/08/07/DreamSourceLab_zh_CN/"/>
+    <url>/2024/08/07/DreamSourceLab_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>左璞石示波器，右 DSLogic<br><img src="/img/Moment/IMG_20240807_123716.webp" alt=" "><br>寻思着还差点啥，是不是该整个带烙铁的小笔盒）</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>DreamSourceLab</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>DreamSourceLab</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>DSLogic U2 Plus</title>
+    <link href="/2024/08/05/DSLogic_zh_CN/"/>
+    <url>/2024/08/05/DSLogic_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>事实证明 LED 灯还是挺好看的，感觉均光板少不了( )<br><img src="/img/Moment/IMG_20240805_132609.webp" alt=" "><br><img src="/img/Moment/IMG_20240805_132642.webp" alt=" "><br><img src="/img/Moment/IMG_20240805_140037.webp" alt=" "></p><p><img src="/img/Moment/IMG_20240805_131304.webp" alt=" "></p><p>U2 Basic，懂的都懂( ) 飞线其实已经暗示了一切<br><img src="/img/Moment/IMG_20240805_114537.webp" alt=" "><br>顺便换个精睿<br><img src="/img/Moment/IMG_20240805_113534.webp" alt=" "><br><img src="/img/Moment/IMG_20240805_131310.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>DreamSourceLab</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Dev</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>DreamSourceLab</tag>
+      
+      <tag>DSLogic</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WCH CH32V305</title>
+    <link href="/2024/08/04/CH32V305_zh_CN/"/>
+    <url>/2024/08/04/CH32V305_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>感觉之前有点错怪 WCH，国产芯片还是便宜好用的( )</p><p><img src="/img/Moment/IMG_20240804_170850.webp" alt=" "><br><img src="/img/Moment/IMG_20240804_170613.webp" alt=" "><br><img src="/img/Moment/IMG_20240804_170709.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>WCH</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Dev</tag>
+      
+      <tag>Kit</tag>
+      
+      <tag>WCH</tag>
+      
+      <tag>Moment</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Cypress Dev Kit</title>
+    <link href="/2024/08/04/Cypress_zh_CN/"/>
+    <url>/2024/08/04/Cypress_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>好像没记错的话，Cypress 应该很早就被收购了，但是为什么还是打”Cypress”的标呢</p><p><img src="/img/Moment/IMG_20240804_170127.webp" alt=" "><br><img src="/img/Moment/IMG_20240804_170145.webp" alt=" "><br><img src="/img/Moment/IMG_20240804_170240.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Cypress</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Dev</tag>
+      
+      <tag>Kit</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Cypress</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Krconn</title>
+    <link href="/2024/08/03/Krconn_zh_CN/"/>
+    <url>/2024/08/03/Krconn_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>橙色胶芯的精睿(逃)</p><p><img src="/img/Moment/IMG_20240803_202601.webp" alt=" "><br><img src="/img/Moment/IMG_20240803_202159.webp" alt=" "><br><img src="/img/Moment/IMG_20240803_202416.webp" alt=" "><br><img src="/img/Moment/IMG_20240803_202352.webp" alt=" "><br><img src="/img/Moment/IMG_20240803_202151.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>USBC</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>USBC</tag>
+      
+      <tag>Krconn</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>VL822 HUB</title>
+    <link href="/2024/08/03/JLC_L6_zh_CN/"/>
+    <url>/2024/08/03/JLC_L6_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>第一次收到 JLC 的小黑盒呢</p><p><img src="/img/Moment/IMG_20240803_123831.webp" alt=" "><br><img src="/img/Moment/IMG_20240803_124301.webp" alt=" "></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>JLC</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>JLC</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>USBC Models</title>
+    <link href="/2024/07/26/USBC-Models_zh_CN/"/>
+    <url>/2024/07/26/USBC-Models_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>如果喜欢我做的模型话请去我的<a href="https://github.com/Canmi21/3D-Models">仓库</a>给我留下 Stars</p>          </div> <a class="btn" href="https://github.com/Canmi21/3D-Models"  title="title" target="_blank">Github</a><h2 id="HRS"><a href="#HRS" class="headerlink" title="HRS"></a>HRS</h2><h3 id="CX90M-Download"><a href="#CX90M-Download" class="headerlink" title="CX90M Download"></a>CX90M <a href="https://github.com/Canmi21/3D-Models/blob/USBC/HRS/USBC_16P_HRS-CEC-CM90.step">Download</a></h3><p><img src="/img/Saved-data/HRS-CX90M/Image_1721093945296.webp" alt="Top"><br><img src="/img/Saved-data/HRS-CX90M/Image_1721093947022.webp" alt="Bottom"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>3D</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>3D</tag>
+      
+      <tag>USBC</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WCH-Link R1&amp;E</title>
+    <link href="/2024/07/23/WCH-Link-R1&amp;E_zh_CN/"/>
+    <url>/2024/07/23/WCH-Link-R1&amp;E_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-warning">            <p>WCH-Link 是真废物，感觉不如 JLink V11 或者 ST-Link V3</p>          </div> <h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>因为要调试某个 WCH 的垃圾 549F 还有 CH32V3 什么的，所以被迫做了个 Link-R1( ) 然后做完发现 R1 其实没啥用，关机是 WCH 自己的上位机就很垃圾。然后就换了个 LinkE 之后就被 ex 到了，WCH 家的芯片不知道在想什么 I2C 复用 SWD… … 不好评价<br><img src="/img/blog/WCH-Link-R1&E/WCH-Link-R1&E.jpg" alt="WCH-Link R1&amp;E"></p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>以后反正感觉不会怎么玩 WCH 的片子了，除了便宜，一无是处( )</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>WCH</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>STM32H723</title>
+    <link href="/2024/07/23/STM32H723_zh_CN/"/>
+    <url>/2024/07/23/STM32H723_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>正在思考要不要做一个内置 ST-Link V3 的开发板什么的( )</p>          </div> <h2 id="STM32H723VGH6"><a href="#STM32H723VGH6" class="headerlink" title="STM32H723VGH6"></a>STM32H723VGH6</h2><p>High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 1 MByte Flash, 564 Kbytes RAM, 550 MHz CPU, L1 cache, external memory interface, subset of peripherals.<br><img src="/img/blog/STM32H723/STM32H723VGH6.png" alt="STM32H723VGH6"></p><h3 id="Package-TFBGA-100"><a href="#Package-TFBGA-100" class="headerlink" title="Package TFBGA-100"></a>Package TFBGA-100</h3><p><img src="/img/blog/STM32H723/STM32H723_F.jpg" alt="Front"><br><img src="/img/blog/STM32H723/STM32H723_B.jpg" alt="Bottom"></p><p><img src="/img/blog/STM32H723/STM32H723_N_F.jpg" alt="Front"><br><img src="/img/blog/STM32H723/STM32H723_N_B.jpg" alt="Bottom"><br><img src="/img/blog/STM32H723/STM32H723_N_45.jpg" alt="R45"></p><h3 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h3><p>u1s1，感觉不如 H750 但是 H723 也有 550MHz 的主频 1MByte Flash + 564Kbytes RAM，感觉也不算弱吧。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>ST</tag>
+      
+      <tag>STM32</tag>
+      
+      <tag>MCU</tag>
+      
+      <tag>Chip</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>BSOD Wallpaper</title>
+    <link href="/2024/07/22/BSOD-Wallpaper_zh_CN/"/>
+    <url>/2024/07/22/BSOD-Wallpaper_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-warning">            <p>请勿过分解读</p>          </div> <h1 id="快换壁纸！"><a href="#快换壁纸！" class="headerlink" title="快换壁纸！"></a>快换壁纸！</h1><p><img src="/img/blog/BSOD-Wallpaper/BSOD-Wallpaper-DEMO.jpg" alt="Demo on iPhone15"></p><p><img src="/img/blog/BSOD-Wallpaper/BSOD-Wallpaper.jpg" alt="Wallpaper"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Wallpaper</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Wallpaper</tag>
+      
+      <tag>Phone</tag>
+      
+      <tag>zh_CN</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Waline</title>
+    <link href="/2024/07/22/Waline_zh_CN/"/>
+    <url>/2024/07/22/Waline_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-warning">            <p>请珍惜你的权利</p>          </div> <p>关于评论插件，我想了很久，最后还是觉得再相信你们一次( ) 保留评论的权利给你们。但是如果还是喜欢往我数据库里面灌水或者来恶心我的，可能随时被我永久 Ban 掉。   </p><h3 id="关于这次部署的评论插件"><a href="#关于这次部署的评论插件" class="headerlink" title="关于这次部署的评论插件"></a>关于这次部署的评论插件</h3><a class="btn" href="https://github.com/Canmi21/Blog-waline"  title="title" target="_blank">Github</a> <h4 id="Waline-基于-Valine"><a href="#Waline-基于-Valine" class="headerlink" title="Waline 基于 Valine"></a>Waline 基于 Valine</h4><p>Waline 主要 添加了多种数据库支持，对使用H5注入 Hexo 框架中，Fluid 也为此专门适配了 CSS 优化。<br>这是 Waline 官方的 DEMO：</p><a class="btn" href="https://blog-waline-orcin.vercel.app/"  title="title" target="_blank">Waline</a> <p>对于这次的改动，主要修改了一下选项：</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">waline:</span><br>  <span class="hljs-attr">serverURL:</span> <span class="hljs-string">&#x27;https://vercel.canmi.xyz&#x27;</span><br>  <span class="hljs-attr">path:</span> <span class="hljs-string">window.location.pathname</span><br>  <span class="hljs-attr">meta:</span> []<br>  <span class="hljs-attr">requiredMeta:</span> [<span class="hljs-string">&#x27;nick&#x27;</span>, <span class="hljs-string">&#x27;mail&#x27;</span>]<br>  <span class="hljs-attr">lang:</span> <span class="hljs-string">&#x27;en&#x27;</span><br>  <span class="hljs-attr">emoji:</span> [<span class="hljs-string">&#x27;https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo&#x27;</span>]<br>  <span class="hljs-attr">dark:</span> <span class="hljs-string">&#x27;html[data-user-color-scheme=&quot;dark&quot;]&#x27;</span><br>  <span class="hljs-attr">wordLimit:</span> <span class="hljs-number">0</span><br>  <span class="hljs-attr">pageSize:</span> <span class="hljs-number">10</span><br>  <span class="hljs-attr">admin:</span> [<span class="hljs-string">&#x27;Canmi21@gmail.com&#x27;</span>]<br>  <span class="hljs-attr">adminLabel:</span> <span class="hljs-string">&#x27;Owner&#x27;</span><br></code></pre></td></tr></table></figure><p>首先评论改成 IP+ID+Mail 认证的形式尽量实名制，禁用了访客评论   </p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">dark:</span> <span class="hljs-string">&#x27;html[data-user-color-scheme=&quot;dark&quot;]&#x27;</span><br></code></pre></td></tr></table></figure><p>受益于 Fluid 的适配，默认 Waline 可以原生适配 DarkMode</p><h4 id="配置流程"><a href="#配置流程" class="headerlink" title="配置流程"></a>配置流程</h4><p>这次的 <a href="https://github.com/Canmi21/Blog-waline">Waline</a> 服务我采用了 <a href="https://www.leancloud.app/">Leancloud</a> 作为托管数据库，由于网站和数据库都在境外，所以无需备案还可以做 CNAME 到自己的自定义域名上，关于部署请不要直接 git clone 我的 Github 仓库，你可以在 <a href="https://github.com/walinejs/waline/tree/main/example">Waline</a> 的初始仓库上执行 clone.<br><img src="/img/blog/Waline/Vercel.png" alt="Vercel"><br>这里容器的托管服务我选择了 <a href="https://vercel.com/">Vercel</a> 的服务，同样在境外不用备案但是速度尚可。你可以在 <a href="https://vercel.com/canmis-projects/blog-waline">Vercel</a> 上继续查看我的项目，同样需要初始化请 clone <a href="https://vercel.com/new/canmis-projects/clone?repository-url=https://github.com/walinejs/waline/tree/main/example">Vercel</a> 的初始化仓库。<br><img src="/img/blog/Waline/Vercel-status.png" alt="Vercel"></p><h4 id="强制要求"><a href="#强制要求" class="headerlink" title="强制要求"></a>强制要求</h4><p>在 Waline V2.15.5 的版本中支持你通过 Fluid 或者其他主题的 .yml 来限制最小的要求。</p><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yml"><span class="hljs-attr">requiredMeta:</span> [<span class="hljs-string">&#x27;nick&#x27;</span>, <span class="hljs-string">&#x27;mail&#x27;</span>]<br></code></pre></td></tr></table></figure><p>在我的 Blog 中您可以使用右下角的 Login 来绑定你的 Github 账号，这将会自动同步您的头像以及昵称。但是切记保护好你的账号，我并没有配置重置密码的邮箱，所以不推荐直接使用邮箱注册，这将无法使用”忘记密码”的功能。<br><img src="/img/blog/Waline/Waline.png" alt="Waline"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>README</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Hexo</tag>
+      
+      <tag>README</tag>
+      
+      <tag>Waline</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Code Block</title>
+    <link href="/2024/07/21/CodeBlock_zh_CN/"/>
+    <url>/2024/07/21/CodeBlock_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<h1 id="CodeBlock-代码着色器风格"><a href="#CodeBlock-代码着色器风格" class="headerlink" title="CodeBlock 代码着色器风格"></a>CodeBlock 代码着色器风格</h1><div class="note note-info">            <p>推荐使用 Dark Mode 继续阅读  </p>          </div> <p>起因：<br>今天感觉Fluid的代码块好丑啊，所以直接自己调了一个(√)</p><h3 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h3><p><img src="/img/blog/CodeBlock/CodeBlock_NEW.png" alt="Dark Mode"></p><h3 id="原始效果"><a href="#原始效果" class="headerlink" title="原始效果"></a>原始效果</h3><p><img src="/img/blog/CodeBlock/CodeBlock.png" alt="Dark Mode"><br>原版的 CodeBlock 着色效果真是一言难尽，感觉着色了 但不多。而且对于 DarkMode 的适配是真的差劲，竟然没有对应把字体调成浅色( ) 深色的背景+深色的代码真的看得清嘛(x)   </p><h3 id="修改步骤"><a href="#修改步骤" class="headerlink" title="修改步骤"></a>修改步骤</h3><p>我们可以这样来新增一个CSS：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br></pre></td><td class="code"><pre><code class="hljs css"><span class="hljs-comment">/* Custom styles for dark mode code blocks */</span><br><span class="hljs-keyword">@media</span> (<span class="hljs-attribute">prefers-color-scheme</span>: dark) &#123;<br>    pre, <span class="hljs-selector-tag">code</span> &#123;<br>        <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#2e3440</span>; <span class="hljs-comment">/* Dark background color */</span><br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#d8dee9</span>; <span class="hljs-comment">/* Light font color for better readability */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Keyword styles */</span><br>    <span class="hljs-selector-class">.hljs-keyword</span>, <span class="hljs-selector-class">.hljs-selector-tag</span>, <span class="hljs-selector-class">.hljs-title</span>, <span class="hljs-selector-class">.hljs-section</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#81a1c1</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* String and literal styles */</span><br>    <span class="hljs-selector-class">.hljs-string</span>, <span class="hljs-selector-class">.hljs-symbol</span>, <span class="hljs-selector-class">.hljs-bullet</span>, <span class="hljs-selector-class">.hljs-addition</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#a3be8c</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Number styles */</span><br>    <span class="hljs-selector-class">.hljs-number</span>, <span class="hljs-selector-class">.hljs-link</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#b48ead</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Comment and meta styles */</span><br>    <span class="hljs-selector-class">.hljs-comment</span>, <span class="hljs-selector-class">.hljs-quote</span>, <span class="hljs-selector-class">.hljs-meta</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#616e88</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Variable and template variable */</span><br>    <span class="hljs-selector-class">.hljs-variable</span>, <span class="hljs-selector-class">.hljs-template-variable</span>, <span class="hljs-selector-class">.hljs-attr</span>, <span class="hljs-selector-class">.hljs-attribute</span>, <span class="hljs-selector-class">.hljs-tag</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#ebcb8b</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Built-in and preprocessor */</span><br>    <span class="hljs-selector-class">.hljs-built_in</span>, <span class="hljs-selector-class">.hljs-builtin-name</span>, <span class="hljs-selector-class">.hljs-preprocessor</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#88c0d0</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Deletion and emphasis */</span><br>    <span class="hljs-selector-class">.hljs-deletion</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#bf616a</span> <span class="hljs-meta">!important</span>;<br>    &#125;<br><br>    <span class="hljs-comment">/* Emphasis */</span><br>    <span class="hljs-selector-class">.hljs-emphasis</span> &#123;<br>        <span class="hljs-attribute">font-style</span>: italic;<br>    &#125;<br><br>    <span class="hljs-comment">/* Strong */</span><br>    <span class="hljs-selector-class">.hljs-strong</span> &#123;<br>        <span class="hljs-attribute">font-weight</span>: bold;<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure><p>在 CSS 中使用 !important 可以强调其重要性，用于优先覆盖其他效果展示。本质上 Hexo 框架中已经存在了 hljs (HighLight) 规则，所以我们可以直接调用识别的类型然后分开着色，这里用到了 VScode 的颜色配置。</p><div class="note note-info">            <p>记得分别挂载自定义的 Light&amp;Dark 模式下的渲染规则</p>          </div> <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;link rel=<span class="hljs-string">&quot;stylesheet&quot;</span> href=<span class="hljs-string">&quot;&lt;%= url_for(&#x27;/css/dark.css&#x27;) %&gt;&quot;</span>&gt;<br></code></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;link rel=<span class="hljs-string">&quot;stylesheet&quot;</span> href=<span class="hljs-string">&quot;&lt;%= url_for(&#x27;/css/light.css&#x27;) %&gt;&quot;</span>&gt;<br></code></pre></td></tr></table></figure><p>下面是 Light 模式的规则抄作业：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br></pre></td><td class="code"><pre><code class="hljs css"><span class="hljs-comment">/* Custom styles for light mode code blocks */</span><br><span class="hljs-keyword">@media</span> (<span class="hljs-attribute">prefers-color-scheme</span>: light) &#123;<br>    pre, <span class="hljs-selector-tag">code</span> &#123;<br>        <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#f5f5f5</span>; <span class="hljs-comment">/* Light grey background color */</span><br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#4a4a4a</span>; <span class="hljs-comment">/* Dark grey font color for better readability */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Keyword styles */</span><br>    <span class="hljs-selector-class">.hljs-keyword</span>, <span class="hljs-selector-class">.hljs-selector-tag</span>, <span class="hljs-selector-class">.hljs-title</span>, <span class="hljs-selector-class">.hljs-section</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#005cc5</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Dark blue for control elements and sections */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* String and literal styles */</span><br>    <span class="hljs-selector-class">.hljs-string</span>, <span class="hljs-selector-class">.hljs-symbol</span>, <span class="hljs-selector-class">.hljs-bullet</span>, <span class="hljs-selector-class">.hljs-addition</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#22863a</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Green for strings and additions */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Number styles */</span><br>    <span class="hljs-selector-class">.hljs-number</span>, <span class="hljs-selector-class">.hljs-link</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#953800</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Brownish color for numbers and links */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Comment and meta styles */</span><br>    <span class="hljs-selector-class">.hljs-comment</span>, <span class="hljs-selector-class">.hljs-quote</span>, <span class="hljs-selector-class">.hljs-meta</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#6a737d</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Dark gray for comments and meta information */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Variable and template variable */</span><br>    <span class="hljs-selector-class">.hljs-variable</span>, <span class="hljs-selector-class">.hljs-template-variable</span>, <span class="hljs-selector-class">.hljs-attr</span>, <span class="hljs-selector-class">.hljs-attribute</span>, <span class="hljs-selector-class">.hljs-tag</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#e36209</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Orange for variables, attributes, and tags */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Built-in and preprocessor */</span><br>    <span class="hljs-selector-class">.hljs-built_in</span>, <span class="hljs-selector-class">.hljs-builtin-name</span>, <span class="hljs-selector-class">.hljs-preprocessor</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#005cc5</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Dark blue for built-in functions and preprocessors */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Deletion */</span><br>    <span class="hljs-selector-class">.hljs-deletion</span> &#123;<br>        <span class="hljs-attribute">color</span>: <span class="hljs-number">#d73a49</span> <span class="hljs-meta">!important</span>; <span class="hljs-comment">/* Red for deletions */</span><br>    &#125;<br><br>    <span class="hljs-comment">/* Emphasis */</span><br>    <span class="hljs-selector-class">.hljs-emphasis</span> &#123;<br>        <span class="hljs-attribute">font-style</span>: italic;<br>    &#125;<br><br>    <span class="hljs-comment">/* Strong */</span><br>    <span class="hljs-selector-class">.hljs-strong</span> &#123;<br>        <span class="hljs-attribute">font-weight</span>: bold;<br>    &#125;<br>&#125;<br><br></code></pre></td></tr></table></figure><p>你可以此处继续浏览</p><a class="btn" href="https://github.com/Canmi21/Canmi21.github.io/blob/main/css/dark.css"  title="title" target="_blank">Github</a>]]></content>
+    
+    
+    <categories>
+      
+      <category>Code</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Code</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>OpenSource</tag>
+      
+      <tag>CSS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>README</title>
+    <link href="/2024/07/21/README_zh_CN/"/>
+    <url>/2024/07/21/README_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-danger">            <p>请不要故意刷我的流量</p>          </div> <div class="note note-warning">            <p>DDoS将会面临永久IP封禁</p>          </div> <p>由于网站今日内被多次请求访问，数据已经明显超出正常范围了( ) 目前采用的措施是添加 Cloudflare 的交互式验证请求(√) 今天开始修改了WAF的规则，低风险用户会被要求JS检查(该项目可能会导致在使用浏览器角色切换或者伪装插件时被拦截)，高风险用户会被要求做交互式验证码继续。 </p><p><img src="/img/blog/README/ReportData.png" alt="截止于2024-07-20"></p><p>不过也有一个好消息是看起来CDN已经开始干活了目前国外访问速度基本都在1-2s内加载完整个框架，LightHS 评估网页得分大约75分左右，国内目前靠另外一个解析的CDN，泛域名在中国深圳，主页的背景采用了国内图床代） 一共4MB的图片差不多首次加载也就是3s左右。至于后续访问嘛，那就全靠Cookie咯(逃) 本网站会想办法往你的 Cookie 里写一点奇怪的内容用于保存 Dark | Light 模式的配置以及缓存部分数据用于改善浏览体验。</p><div style="text-align: center;">  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5aenvmg0fvd&amp;m=1&amp;c=ffc000&amp;cr1=ff0000&amp;f=arial&amp;l=33" async="async"></script></div>]]></content>
+    
+    
+    <categories>
+      
+      <category>README</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>README</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Elapsed Timer</title>
+    <link href="/2024/07/20/ElapsedTimerzh_CN/"/>
+    <url>/2024/07/20/ElapsedTimerzh_CN/</url>
+    
+    <content type="html"><![CDATA[<h1 id="随手写的通过JS实现的计时器"><a href="#随手写的通过JS实现的计时器" class="headerlink" title="随手写的通过JS实现的计时器"></a>随手写的通过JS实现的计时器</h1><p id="time-elapsed"></p><script>    // 计算经过的时间函数：String -> String    const calculateElapsedTime = startDate => {        const start = new Date(startDate);        const now = new Date();        const diff = now - start; // 时间差，单位为毫秒        const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));        const days = Math.floor((diff % (1000 * 60 * 60 * 24 * 365)) / (1000 * 60 * 60 * 24));        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));        const seconds = Math.floor((diff % (1000 * 60)) / 1000);        return `${years}y ${days}d ${hours}h ${minutes}m ${seconds}s`;    };    // 更新元素内容的函数：HTMLElement -> String -> ()    const updateElement = obj => str => obj.innerHTML = str;    // 页面加载后执行    document.addEventListener("DOMContentLoaded", () => {        const startDate = "2024-07-20T20:34:21";        const timeElapsedElement = document.getElementById("time-elapsed");        // 更新元素内容的函数        const updateTimeElapsed = updateElement(timeElapsedElement);        // 初始化调用，显示初始值        updateTimeElapsed(`实现了=> 时间已经过去了 ${calculateElapsedTime(startDate)}`);        // 1s更新一次显示的时间        setInterval(() => {            updateTimeElapsed(`实现了=> 时间已经过去了 ${calculateElapsedTime(startDate)}`);        }, 1000);    });</script><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 计算经过的时间函数：String -&gt; String</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">calculateElapsedTime</span> = startDate =&gt; &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> <span class="hljs-string">`<span class="hljs-subst">$&#123;years&#125;</span>y <span class="hljs-subst">$&#123;days&#125;</span>d <span class="hljs-subst">$&#123;hours&#125;</span>h <span class="hljs-subst">$&#123;minutes&#125;</span>m <span class="hljs-subst">$&#123;seconds&#125;</span>s`</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 更新元素内容的函数：HTMLElement -&gt; String -&gt; ()</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">updateElement</span> = obj =&gt; <span class="hljs-function"><span class="hljs-params">str</span> =&gt;</span> obj.<span class="hljs-property">innerHTML</span> = str;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 页面加载后执行</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-function">() =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> startDate = <span class="hljs-string">&quot;2024-07-20T20:34:21&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 更新元素内容的函数</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> updateTimeElapsed = <span class="hljs-title function_">updateElement</span>(timeElapsedElement);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 初始化调用，显示初始值</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`时间已经过去了 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 1s更新一次显示的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(<span class="hljs-function">() =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`时间已经过去了 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;, <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h2 id="工作原理"><a href="#工作原理" class="headerlink" title="工作原理"></a>工作原理</h2><h3 id="计算时间差"><a href="#计算时间差" class="headerlink" title="计算时间差"></a>计算时间差</h3><p>首先这段JS的本质是一个计算时间差, “calculateElapsedTime” 函数接收一个日期字符串作为参数，这个日期表示计时的开始时间。它首先将这个字符串转换成 Date 对象。然后，通过当前时间与开始时间的差值（以毫秒为单位），计算出经过的年数、天数、小时数、分钟数和秒数。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">// 计算经过的时间函数：String -&gt; String</span><br><span class="hljs-keyword">const</span> <span class="hljs-title function_">calculateElapsedTime</span> = startDate =&gt; &#123;<br>    <span class="hljs-keyword">const</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);<br>    <span class="hljs-keyword">const</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();<br>    <span class="hljs-keyword">const</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span><br><br>    <span class="hljs-keyword">const</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));<br>    <span class="hljs-keyword">const</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));<br>    <span class="hljs-keyword">const</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));<br>    <span class="hljs-keyword">const</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));<br>    <span class="hljs-keyword">const</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);<br><br>    <span class="hljs-keyword">return</span> <span class="hljs-string">`<span class="hljs-subst">$&#123;years&#125;</span>y <span class="hljs-subst">$&#123;days&#125;</span>d <span class="hljs-subst">$&#123;hours&#125;</span>h <span class="hljs-subst">$&#123;minutes&#125;</span>m <span class="hljs-subst">$&#123;seconds&#125;</span>s`</span>;<br>&#125;;<br></code></pre></td></tr></table></figure><h3 id="更新此元素"><a href="#更新此元素" class="headerlink" title="更新此元素"></a>更新此元素</h3><p>更新网页元素内容的实现通过了 updateElement 函数接收一个 HTMLElement 对象，并返回另一个函数，这个返回的函数可以接受一个字符串并将其设置为传入的元素的 innerHTML。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">// 更新元素内容的函数：HTMLElement -&gt; String -&gt; ()</span><br><span class="hljs-keyword">const</span> <span class="hljs-title function_">updateElement</span> = obj =&gt; <span class="hljs-function"><span class="hljs-params">str</span> =&gt;</span> obj.<span class="hljs-property">innerHTML</span> = str;<br></code></pre></td></tr></table></figure><h3 id="刷新该元素"><a href="#刷新该元素" class="headerlink" title="刷新该元素"></a>刷新该元素</h3><p>最后在页面加载后的执行 DOMContentLoaded 事件中（即所有DOM元素都已加载完成后），代码设置了开始日期 startDate，并获取了页面中的元素。然后，使用 updateElement 函数创建了 updateTimeElapsed 函数，该函数可以更新时间显示。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">// 页面加载后执行</span><br><span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-function">() =&gt;</span> &#123;<br>    <span class="hljs-keyword">const</span> startDate = <span class="hljs-string">&quot;2024-07-20T20:34:21&quot;</span>;<br>    <span class="hljs-keyword">const</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);<br><br>    <span class="hljs-comment">// 更新元素内容的函数</span><br>    <span class="hljs-keyword">const</span> updateTimeElapsed = <span class="hljs-title function_">updateElement</span>(timeElapsedElement);<br><br>    <span class="hljs-comment">// 初始化调用，显示初始值</span><br>    <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`时间已经过去了 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);<br><br>    <span class="hljs-comment">// 1s更新一次显示的时间</span><br>    <span class="hljs-built_in">setInterval</span>(<span class="hljs-function">() =&gt;</span> &#123;<br>        <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`时间已经过去了 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);<br>    &#125;, <span class="hljs-number">1000</span>);<br>&#125;);<br></code></pre></td></tr></table></figure><h2 id="修正经历"><a href="#修正经历" class="headerlink" title="修正经历"></a>修正经历</h2><h3 id="初版思路"><a href="#初版思路" class="headerlink" title="初版思路"></a>初版思路</h3><p>可以看到这里其实缺少了对于年份的统计，理论上这种方法也适用于时间轴不长的天数统计。但是在 days 的值中如果超过 356(366) 会看起来很奇怪，特别是用于统计网站的运行时间。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">function</span> <span class="hljs-title function_">calculateElapsedTime</span>(<span class="hljs-params">startDate</span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> days + <span class="hljs-string">&quot;d &quot;</span> + hours + <span class="hljs-string">&quot;h &quot;</span> + minutes + <span class="hljs-string">&quot;m &quot;</span> + seconds + <span class="hljs-string">&quot;s&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> startDate = <span class="hljs-string">&quot;2024-07-13T00:00:00&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml">        timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + <span class="hljs-title function_">calculateElapsedTime</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(<span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + <span class="hljs-title function_">calculateElapsedTime</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;, <span class="hljs-number">1000</span>); <span class="hljs-comment">// 每秒更新一次</span></span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h3 id="添加年份"><a href="#添加年份" class="headerlink" title="添加年份"></a>添加年份</h3><p>到这里其实代码已经可以跑了，但是似乎某人觉得我写点很烂(Xd)</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">function</span> <span class="hljs-title function_">calculateElapsedTime</span>(<span class="hljs-params">startDate</span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> years + <span class="hljs-string">&quot;y &quot;</span> + days + <span class="hljs-string">&quot;d &quot;</span> + hours + <span class="hljs-string">&quot;h &quot;</span> + minutes + <span class="hljs-string">&quot;m &quot;</span> + seconds + <span class="hljs-string">&quot;s&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> startDate = <span class="hljs-string">&quot;2024-07-03T15:03:00&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml">        timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + <span class="hljs-title function_">calculateElapsedTime</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(<span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + <span class="hljs-title function_">calculateElapsedTime</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;, <span class="hljs-number">1000</span>); <span class="hljs-comment">// 每秒更新一次</span></span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h3 id="组合函数"><a href="#组合函数" class="headerlink" title="组合函数"></a>组合函数</h3><p>所以这里改用定义一个组合函数(x)</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 定义组合函数</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">compose</span> = (<span class="hljs-params">f, g</span>) =&gt; <span class="hljs-function"><span class="hljs-params">x</span> =&gt;</span> <span class="hljs-title function_">f</span>(<span class="hljs-title function_">g</span>(x));</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 计算经过的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">function</span> <span class="hljs-title function_">calculateElapsedTime</span>(<span class="hljs-params">startDate</span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> years + <span class="hljs-string">&quot;y &quot;</span> + days + <span class="hljs-string">&quot;d &quot;</span> + hours + <span class="hljs-string">&quot;h &quot;</span> + minutes + <span class="hljs-string">&quot;m &quot;</span> + seconds + <span class="hljs-string">&quot;s&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 页面加载后执行</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> startDate = <span class="hljs-string">&quot;2024-07-03T15:03:00&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 组合函数，用于更新页面运行时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> updateElapsedTime = <span class="hljs-title function_">compose</span>(<span class="hljs-function">() =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + <span class="hljs-title function_">calculateElapsedTime</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;, <span class="hljs-function">() =&gt;</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 初始化调用，显示初始值</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-title function_">updateElapsedTime</span>();</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 每秒更新一次显示的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(updateElapsedTime, <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h3 id="规范函数"><a href="#规范函数" class="headerlink" title="规范函数"></a>规范函数</h3><p>u1s1，其实我感觉上面也算某种意义上的”组合函数” 但是为了满足某人的XP，以下使用 f &#x3D;&gt; g &#x3D;&gt; args &#x3D;&gt; f(g(args))</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 定义组合函数</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">compose</span> = f =&gt; <span class="hljs-function"><span class="hljs-params">g</span> =&gt;</span> <span class="hljs-function"><span class="hljs-params">args</span> =&gt;</span> <span class="hljs-title function_">f</span>(<span class="hljs-title function_">g</span>(args));</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 计算经过的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">function</span> <span class="hljs-title function_">calculateElapsedTime</span>(<span class="hljs-params">startDate</span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> years + <span class="hljs-string">&quot;y &quot;</span> + days + <span class="hljs-string">&quot;d &quot;</span> + hours + <span class="hljs-string">&quot;h &quot;</span> + minutes + <span class="hljs-string">&quot;m &quot;</span> + seconds + <span class="hljs-string">&quot;s&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 页面加载后执行</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> startDate = <span class="hljs-string">&quot;2024-07-03T15:03:00&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">var</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 组合函数，用于更新页面运行时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> updateElapsedTime = <span class="hljs-title function_">compose</span>(<span class="hljs-function"><span class="hljs-params">timeElapsed</span> =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            timeElapsedElement.<span class="hljs-property">innerHTML</span> = <span class="hljs-string">&quot;网页已运行 &quot;</span> + timeElapsed;</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;)(<span class="hljs-function">() =&gt;</span> <span class="hljs-title function_">calculateElapsedTime</span>(startDate));</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 初始化调用，显示初始值</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-title function_">updateElapsedTime</span>();</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 每秒更新一次显示的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(updateElapsedTime, <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h3 id="规范风格"><a href="#规范风格" class="headerlink" title="规范风格"></a>规范风格</h3><p>但是似乎代码的可读性较差，所以可以改成这样：<br>使用 calcuateDate 函数规范为 string -&gt; string 然后更新 element.innerHTML<br>最后 setInterval(() -&gt; (), 1000) 来完成更新。   </p><p>那么顺应的写法应该是：<br>setInterval(() &#x3D;&gt; updateElement(calcuateDate))</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;p id=<span class="hljs-string">&quot;time-elapsed&quot;</span>&gt;&lt;/p&gt;<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 计算经过的时间函数：String -&gt; String</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">calculateElapsedTime</span> = startDate =&gt; &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> diff = now - start; <span class="hljs-comment">// 时间差，单位为毫秒</span></span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">return</span> <span class="hljs-string">`<span class="hljs-subst">$&#123;years&#125;</span>y <span class="hljs-subst">$&#123;days&#125;</span>d <span class="hljs-subst">$&#123;hours&#125;</span>h <span class="hljs-subst">$&#123;minutes&#125;</span>m <span class="hljs-subst">$&#123;seconds&#125;</span>s`</span>;</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 更新元素内容的函数：HTMLElement -&gt; String -&gt; ()</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-keyword">const</span> <span class="hljs-title function_">updateElement</span> = obj =&gt; <span class="hljs-function"><span class="hljs-params">str</span> =&gt;</span> obj.<span class="hljs-property">innerHTML</span> = str;</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-comment">// 页面加载后执行</span></span></span><br><span class="language-javascript"><span class="language-xml">    <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&quot;DOMContentLoaded&quot;</span>, <span class="hljs-function">() =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> startDate = <span class="hljs-string">&quot;2024-07-03T15:03:00&quot;</span>;</span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> timeElapsedElement = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">getElementById</span>(<span class="hljs-string">&quot;time-elapsed&quot;</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 更新元素内容的函数</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-keyword">const</span> updateTimeElapsed = <span class="hljs-title function_">updateElement</span>(timeElapsedElement);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 初始化调用，显示初始值</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`网页已运行 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);</span></span><br><span class="language-javascript"><span class="language-xml"></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-comment">// 每秒更新一次显示的时间</span></span></span><br><span class="language-javascript"><span class="language-xml">        <span class="hljs-built_in">setInterval</span>(<span class="hljs-function">() =&gt;</span> &#123;</span></span><br><span class="language-javascript"><span class="language-xml">            <span class="hljs-title function_">updateTimeElapsed</span>(<span class="hljs-string">`网页已运行 <span class="hljs-subst">$&#123;calculateElapsedTime(startDate)&#125;</span>`</span>);</span></span><br><span class="language-javascript"><span class="language-xml">        &#125;, <span class="hljs-number">1000</span>);</span></span><br><span class="language-javascript"><span class="language-xml">    &#125;);</span></span><br><span class="language-javascript"><span class="language-xml"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span></span><br></code></pre></td></tr></table></figure><p>updateElement HTMLElement -&gt; string -&gt; ()<br>updateElement &#x3D; obj &#x3D;&gt; str -&gt; obj.innerHTML &#x3D; str</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-keyword">const</span> <span class="hljs-title function_">calculateElapsedTime</span> = startDate =&gt; &#123;<br>    <span class="hljs-keyword">const</span> start = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(startDate);<br>    <span class="hljs-keyword">const</span> now = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();<br>    <span class="hljs-keyword">const</span> diff = now - start;<br><br>    <span class="hljs-keyword">const</span> years = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diff / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>));<br>    <span class="hljs-keyword">const</span> days = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span> * <span class="hljs-number">365</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>));<br>    <span class="hljs-keyword">const</span> hours = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>));<br>    <span class="hljs-keyword">const</span> minutes = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span>)) / (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>));<br>    <span class="hljs-keyword">const</span> seconds = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>((diff % (<span class="hljs-number">1000</span> * <span class="hljs-number">60</span>)) / <span class="hljs-number">1000</span>);<br><br>    <span class="hljs-keyword">return</span> <span class="hljs-string">`<span class="hljs-subst">$&#123;years&#125;</span>y <span class="hljs-subst">$&#123;days&#125;</span>d <span class="hljs-subst">$&#123;hours&#125;</span>h <span class="hljs-subst">$&#123;minutes&#125;</span>m <span class="hljs-subst">$&#123;seconds&#125;</span>s`</span>;<br>&#125;;<br><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>Code</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Code</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>OpenSource</tag>
+      
+      <tag>JavaScript</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>TitlePlay HideSeek</title>
+    <link href="/2024/07/20/TitlePlay%20HideSeek_zh_CN/"/>
+    <url>/2024/07/20/TitlePlay%20HideSeek_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<h1 id="基于JS实现的交互式标题"><a href="#基于JS实现的交互式标题" class="headerlink" title="基于JS实现的交互式标题"></a>基于JS实现的交互式标题</h1><p>至于实现的效果嘛，看顶上标签页不就知道了嘛</p><h2 id="实现代码"><a href="#实现代码" class="headerlink" title="实现代码"></a>实现代码</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-keyword">var</span> <span class="hljs-title class_">OriginTitile</span> = <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span>;<br><span class="hljs-keyword">var</span> titleTime;<br><span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&#x27;visibilitychange&#x27;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;<br>    <span class="hljs-keyword">if</span> (<span class="hljs-variable language_">document</span>.<span class="hljs-property">hidden</span>) &#123;<br>        <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-string">&#x27;(つェ⊂)我藏好了哦~&#x27;</span>;<br>        <span class="hljs-built_in">clearTimeout</span>(titleTime);<br>    &#125; <span class="hljs-keyword">else</span> &#123;<br>        <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-string">&#x27;(*´∇｀*)被你发现啦~&#x27;</span>;<br>        titleTime = <span class="hljs-built_in">setTimeout</span>(<span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;<br>            <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-title class_">OriginTitile</span>;<br>        &#125;, <span class="hljs-number">2100</span>);<br>    &#125;<br>&#125;);<br></code></pre></td></tr></table></figure><h2 id="原理讲解"><a href="#原理讲解" class="headerlink" title="原理讲解"></a>原理讲解</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-comment">// 存储原始标题</span><br><span class="hljs-keyword">var</span> <span class="hljs-title class_">OriginTitile</span> = <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span>;<br><br><span class="hljs-comment">// 声明一个变量来保存定时器</span><br><span class="hljs-keyword">var</span> titleTime;<br><br><span class="hljs-comment">// 添加一个事件监听器监听可见性变化</span><br><span class="hljs-variable language_">document</span>.<span class="hljs-title function_">addEventListener</span>(<span class="hljs-string">&#x27;visibilitychange&#x27;</span>, <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;<br>    <span class="hljs-comment">// 检查文档是否隐藏</span><br>    <span class="hljs-keyword">if</span> (<span class="hljs-variable language_">document</span>.<span class="hljs-property">hidden</span>) &#123;<br>        <span class="hljs-comment">// 将标题改为隐藏信息</span><br>        <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-string">&#x27;(つェ⊂)我藏好了哦~&#x27;</span>;<br>        <span class="hljs-comment">// 清除任何已有的定时器</span><br>        <span class="hljs-built_in">clearTimeout</span>(titleTime);<br>    &#125; <span class="hljs-keyword">else</span> &#123;<br>        <span class="hljs-comment">// 将标题改为发现信息</span><br>        <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-string">&#x27;(*´∇｀*)被你发现啦~&#x27;</span>;<br>        <span class="hljs-comment">// 设置定时器在2.1秒后将标题改回原始标题</span><br>        titleTime = <span class="hljs-built_in">setTimeout</span>(<span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) &#123;<br>            <span class="hljs-variable language_">document</span>.<span class="hljs-property">title</span> = <span class="hljs-title class_">OriginTitile</span>;<br>        &#125;, <span class="hljs-number">2100</span>);<br>    &#125;<br>&#125;);<br></code></pre></td></tr></table></figure><p>怎么样，很简便吧 学废了就CV一下就好了 </p><div class="note note-info">            <p>记得别忘了挂着这个JS(√)</p>          </div> <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript">&lt;script src=<span class="hljs-string">&quot;&lt;%- url_for(&#x27;/js/title.js&#x27;) %&gt;&quot;</span>&gt;&lt;/script&gt;<br></code></pre></td></tr></table></figure><p>你可以此处继续浏览</p><a class="btn" href="https://github.com/Canmi21/Canmi21.github.io/blob/main/js/title.js"  title="title" target="_blank">Github</a>]]></content>
+    
+    
+    <categories>
+      
+      <category>Code</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Code</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>OpenSource</tag>
+      
+      <tag>JavaScript</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="/2024/07/18/Hello-Hexo_zh_CN/"/>
+    <url>/2024/07/18/Hello-Hexo_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<p>今天开始搭这个奇怪的网站，一方面是某些平台不允许发布奇怪的主观内容(x) 另一方面是给自己找个可以记录生活的地方(√) 以后希望能抽空写点东西吧。之前的内容我会想办法从各大平台中搬过来，也算是补齐一段完整的旅程。今天又是一个新的起点呢!?   </p><p>另外介绍一下吧(√)<br>本网站依赖于Node.js，使用Hexo框架のFluid主题，分布式部署在3个 Github Page 上顺便采用 Cloudflare 作为代理以及全球CDN缓存服务）至于wsm要开验证，那当然是已经被 DDoS 过了哇 (つェ⊂)</p><p>获取受信Cookie</p><a class="btn" href="https://Canmi.Xyy"  title="title" target="_blank">Cookie</a><script type="text/javascript">  document.addEventListener('DOMContentLoaded', function() {    // 设置Cookie    function setCookie(name, value, days) {      var expires = "";      if (days) {        var date = new Date();        date.setTime(date.getTime() + (days*24*60*60*1000));        expires = "; expires=" + date.toUTCString();      }      document.cookie = name + "=" + (value || "")  + expires + "; path=/";    }    // 检查Cookie是否已经设置    function getCookie(name) {      var nameEQ = name + "=";      var ca = document.cookie.split(';');      for(var i=0;i < ca.length;i++) {        var c = ca[i];        while (c.charAt(0)==' ') c = c.substring(1,c.length);        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);      }      return null;    }    // 监听按钮事件    var button = document.querySelector('a[href="https://Canmi.Xyy"]');    if (button) {      button.addEventListener('click', function(event) {        event.preventDefault(); // 阻止默认的跳转行为        if (!getCookie('skip_challenge')) {          setCookie('skip_challenge', '1', 30);          alert('Cookie "skip_challenge" 已设置 Cloudflare 规则，有效期30天');        } else {          alert('Cookie "skip_challenge" 已存在');        }      });    }  });</script><p id="time-elapsed"></p><script>    // 计算经过的时间函数：String -> String    const calculateElapsedTime = startDate => {        const start = new Date(startDate);        const now = new Date();        const diff = now - start; // 时间差，单位为毫秒        const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));        const days = Math.floor((diff % (1000 * 60 * 60 * 24 * 365)) / (1000 * 60 * 60 * 24));        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));        const seconds = Math.floor((diff % (1000 * 60)) / 1000);        return `${years}y ${days}d ${hours}h ${minutes}m ${seconds}s`;    };    // 更新元素内容的函数：HTMLElement -> String -> ()    const updateElement = obj => str => obj.innerHTML = str;    // 页面加载后执行    document.addEventListener("DOMContentLoaded", () => {        const startDate = "2024-07-03T15:03:21";        const timeElapsedElement = document.getElementById("time-elapsed");        // 更新元素内容的函数        const updateTimeElapsed = updateElement(timeElapsedElement);        // 初始化调用，显示初始值        updateTimeElapsed(`网页已运行 ${calculateElapsedTime(startDate)}`);        // 1s更新一次显示的时间        setInterval(() => {            updateTimeElapsed(`网页已运行 ${calculateElapsedTime(startDate)}`);        }, 1000);    });</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Hello</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>HRS-CX90M</title>
+    <link href="/2024/07/16/HRS-CX90M_zh_CN/"/>
+    <url>/2024/07/16/HRS-CX90M_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>此文件已被收入于 <a href="https://canmi21.github.io/2024/07/26/USBC-Models_zh_CN/">USBC</a> 模型库  </p>          </div> <a class="btn" href="https://canmi21.github.io/2024/07/26/USBC-Models_zh_CN/"  title="title" target="_blank">Page</a><h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p><img src="/img/Saved-data/HRS-CX90M/Image_1721093945296.webp" alt="Top"><br><img src="/img/Saved-data/HRS-CX90M/Image_1721093947022.webp" alt="Bottom"></p><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>u1s1，我觉得这个单色的原厂模型是真的敷衍<br><img src="/img/Saved-data/HRS-CX90M/Image_1721037992925.webp" alt="Top"></p><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>所以我就在一些不太会看见的地方做了点细节上面的修理，顺便提一句某些地方本来就是原厂模型的缺陷( )<br>这导致我这个强迫症晚期很不爽，但是真的不想修了，呜呜呜<br><img src="/img/Saved-data/HRS-CX90M/Image_1721093998293.webp" alt="Back"><br><img src="/img/Saved-data/HRS-CX90M/Image_1721094000236.webp" alt="Front"><br><img src="/img/Saved-data/HRS-CX90M/Image_1721094001166.webp" alt="Side"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>3D</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>3D</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Linux Logo</title>
+    <link href="/2024/07/13/Linux_Logo_zh_CN/"/>
+    <url>/2024/07/13/Linux_Logo_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>来源自 CharlieYuの动态</p>          </div> <h4 id="感觉这个-Arch-好可爱哇"><a href="#感觉这个-Arch-好可爱哇" class="headerlink" title="感觉这个 Arch 好可爱哇"></a>感觉这个 Arch 好可爱哇</h4><p><img src="/img/blog/Linux_Logo/ArchLinux.jpg" alt="ArchLinux"><br><img src="/img/blog/Linux_Logo/Debian.jpg" alt="Debian"><br><img src="/img/blog/Linux_Logo/Ubuntu.jpg" alt="Ubuntu"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Linux</tag>
+      
+      <tag>ArchLinux</tag>
+      
+      <tag>Debian</tag>
+      
+      <tag>Ubuntu</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>MI120 A-&gt;C 10G</title>
+    <link href="/2024/06/30/MI120-AC-10G_zh_CN/"/>
+    <url>/2024/06/30/MI120-AC-10G_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-success">            <p>此项目为”MI120 AC 10G”的一个 Update</p>          </div> <div class="note note-info">            <p>此项目已经终止，正在计划集成进 Source 端</p>          </div> <h1 id="MI120-AC-10G"><a href="#MI120-AC-10G" class="headerlink" title="MI120 AC 10G"></a>MI120 AC 10G</h1><h3 id="DEMO"><a href="#DEMO" class="headerlink" title="DEMO"></a>DEMO</h3><p><img src="/img/blog/MI120-AC-2/MI120-AC-F.jpg" alt="Front"><br><img src="/img/blog/MI120-AC-2/MI120-AC-B.jpg" alt="Bottom"></p><h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><h4 id="wsm-要做这个东西？"><a href="#wsm-要做这个东西？" class="headerlink" title="wsm 要做这个东西？"></a>wsm 要做这个东西？</h4><p>我已经被不只一次问过这个问题了，这个转接头本质就是一根小米 6AのAC 线 + 一个 10GのAC MUX(转接头) 至于上面的芯片呢，那当然是从原装线上面扣的啊。</p><h4 id="它能做什么"><a href="#它能做什么" class="headerlink" title="它能做什么"></a>它能做什么</h4><p>本质上任意 CC线 + 转接头 &#x3D; 原装充电线 附赠一个平时作为 10G 双面转接头的属性( )</p><h3 id="制作"><a href="#制作" class="headerlink" title="制作"></a>制作</h3><p><img src="/img/blog/MI120-AC-2/MI120-AC-PCB.jpg" alt="PCB"></p><h4 id="关于它的PCB"><a href="#关于它的PCB" class="headerlink" title="关于它的PCB"></a>关于它的PCB</h4><p>这次用了 JLCの3313 6层结构，原因很简单我想白嫖盘中孔( )<br><img src="/img/blog/MI120-AC-2/MI120-AC-F-EDA.png" alt="EDA"><br>可以看到 USBC 上已经被打满了( ) 这种情况下没有塞孔工艺将会导致 USBC 在焊接的时候虚焊、漏锡。</p><h4 id="SMT"><a href="#SMT" class="headerlink" title="SMT"></a>SMT</h4><p>塞孔之后刷锡膏就很平整<br><img src="/img/blog/MI120-AC-2/MI120-AC-SMT.jpg" alt="SMT"></p><h4 id="人肉贴片机"><a href="#人肉贴片机" class="headerlink" title="人肉贴片机"></a>人肉贴片机</h4><p>u1s1，0201 比想象中的大很多( ) 基本属于可以拿捏的范围中，感觉我的极限还是 008004</p><h3 id="固件"><a href="#固件" class="headerlink" title="固件"></a>固件</h3><h4 id="检测思路"><a href="#检测思路" class="headerlink" title="检测思路"></a>检测思路</h4><div class="note note-info">            <p>此处借用了他人的示意图</p>          </div> <p>总所周知在 USB PD 下存在两条 CC 那么就得从插入开始讲起</p>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-e07c2a3a" role="button" aria-expanded="false" aria-controls="collapse-e07c2a3a">        <div class="fold-arrow">▶</div>USBC -> USB+PD+Audio      </div>      <div class="fold-collapse collapse" id="collapse-e07c2a3a">        <div class="fold-content">          <h4 id="插入检测"><a href="#插入检测" class="headerlink" title="插入检测"></a>插入检测</h4><ul><li>Detect attach of USB ports，e.g. a DFP to a UFP</li></ul><p>USBC 物理接口 USB 中存在在 DFP（Downstream Facing Port）为Host端，UFP（Upstream Facing Port）为device端。在DFP的CC pin会有上拉电阻Rp，在UFP会有下拉电阻Rd。在DFP与UFP未连接之前，DFP的VBUS是没有输出的。当DFP与UFP连接后，CC pin相接，DFP的CC pin侦测到UFP pulldown Rd，表示接到Device，DFP便打开VBUS的FET开关，输出VBUS电源给UFP。<br><img src="/img/blog/USB/PD/USBC/20210512152120246798.png" alt=" "><br>DFP可由CC1与CC2 pin的负载阻抗来判断连接状态，并侦测它是否接到debug or Audio accessory装置</p><div class="note note-info">            <p>这也使得 CC1 和 CC2 将会被用于侦测正反插</p>          </div>    <p><img src="/img/blog/USB/PD/USBC/2021051215225495565.png" alt=" ">    </p><ul><li>Resolve cable orientation and twist connections to establish USB data bus routing</li></ul><p>DFP（Downstream Facing Port）为Host端，UFP（Upstream Facing Port）为device端。在DFP的CC pin会有上拉电阻Rp，在UFP会有下拉电阻Rd。在DFP与UFP未连接之前，DFP的VBUS是没有输出的。当DFP与UFP连接后，CC pin相接，DFP的CC pin侦测到UFP pulldown Rd，表示接到Device，DFP便打开VBUS的FET开关，输出VBUS电源给UFP。<br><img src="/img/blog/USB/PD/USBC/20210512152325326856.png" alt=" ">    </p><ul><li>Establish DFP and UFP roles between two attached ports</li></ul><p>除了DFP、UFP，Type-C spec还定义了DRP（Dual Role port），DRP可以做为DFP也可以做为UFP，可以供电，也可以受电。当DPR接到UFP装置，DRP会转换为DFP。当DRP接到DFP装置，DRP会转换为UFP。当两个DRP装置接在一起，两个装置会Random地，一方为DFP，一方为UFP。<br><img src="/img/blog/USB/PD/USBC/2021051215234454088.png" alt=" ">   </p><ul><li>Discover and configure VBUS: USB Type-C Current modes or USB Power Delivery</li></ul><p>下表为Type-C VBUS输出选项，USB 2.0，USB3.1，USB BC1.2是先前USB协会定义的标准，可以跟Type-C兼容。USB Type-C current 1.5A与3A是Type-C所定义的，需要有CC pin来做侦测。USB PD的功能还需要有USB PD Phy chip来完成Protocol沟通，而Protocol信号是载在两端连接的CC pin上。<br><img src="/img/blog/USB/PD/USBC/2021051215240143909.png" alt=" ">    </p><p>Type-C如何去决定要执行那个模式呢？这也需要靠CC pin。先前提到DFP会有上拉电阻Rp，UFP会有下拉电阻Rd，当DFP与UFP相接，CC pin上就会有分压，Rd是固定5.1k，而Rp就会依照DFP的类别，而有不一样的阻值。UFP会monitor CC pin上的分压来知道DFP的VBUS种类。另外DFP也用不同大小的定电流源来供给CC pin，当电流流到uRd，同样可以产生电压，让UFP知道DFP的VBUS模式。<br><img src="/img/blog/USB/PD/USBC/20210512152419799503.png" alt=" ">    </p><p>Type-C spec定义了DFP在不同模式下，在CC pin要供多大的电流或是要用多大的上拉电阻Rp阻值。<br><img src="/img/blog/USB/PD/USBC/20210512152438504686.png" alt=" ">    </p><p>在UFP是由CC pin上的电压，来得知DFP的VBUS输出能力。例如DFP为5V&#x2F;3A，它可以在CC pin上供330uA的电流，在UFP端的CC pin上就会得到330uA * 5.1k&#x3D;1.683V，UFP就可以判断</p><p>DFP为vRd-3.0。或是DFP用一个上拉电阻10K到VBUS，UFP端的CC pin上的电压为</p><p>5v * 5.1k &#x2F;（5.1k+10k）&#x3D;1.688V，UFP一样可以判断DFP为vRd-3.0。<br><img src="/img/blog/USB/PD/USBC/20210512152502770860.png" alt=" ">    </p><p>USB Type C也支持USB PD，而USB PD的Protocol会转为BMC的信号，在CC pin上传输。<br><img src="/img/blog/USB/PD/USBC/20210512152519864051.png" alt=" ">    </p><ul><li>Configure VCONN</li></ul><p>CC pin有CC1，CC2，当其中1 pin被用来做DFP，UFP之间的连接，另1pin用就来供VCONN。由Figure4.5可以发现，当Cable内将另一个CC pin接一个下拉电阻Ra，这表示这是一条主动式Cable，需要被供电的。DFP侦测到Ra，便会输出VCONN在CC pin，供电给Cable。Ra的阻抗是定义为800ohm ~1200ohm。</p><ul><li>Discover and configure optional Alternate and Accessory modes</li></ul><p>USB PD的VDM（Vendor defined message）功能，可以让host与device认到对方的ID，而进到alternate mode.，VDM也是透过CC pin来传输的。下面为一个Alternate mode在Dock的例子，system认到dock装置，知道dock有PCIe装置，于是system利用Type-C的SBU1&#x2F;SBU2、Tx2&#x2F;Rx2来传输PCIe信号。</p><p><img src="/img/blog/USB/PD/USBC/20210512152544309187.png" alt=" "> </p><p>当CC1与CC2 pin上各接一个下拉电阻，阻值≤Ra，这表示system接到了Audio Accessory，system</p><p>进到accessory mode。如下图，Type C的CC pin接到耳机的DET pin，当耳机插入时，DET pin被拉到low，system进到accessory mode。system需要自动切换Type C上的信号，让DP&#x2F;DN甩来输出耳机的左右声道。SBU1&#x2F;SBU2用来作MIC&#x2F;AGND function，依照system是支持OMTP或CTIA的耳机。</p><p><img src="/img/blog/USB/PD/USBC/20210512152602807967.png" alt=" "><br>CC Function Table</p><p><img src="/img/blog/USB/PD/USBC/20210512152609983993.png" alt=" ">   </p>        </div>      </div>    </div><h4 id="判断CC"><a href="#判断CC" class="headerlink" title="判断CC"></a>判断CC</h4><p>那么有了下面的思路就会变得非常简单：<br>已知小米A口充电头只有一条 CC，那么一下简称”左边的CC”为小米A口的原生CC “右边的两个CC”为转出来的 USBC 母座的 2组CC( ) 实际上这样会导致只有一条 CC 最后会建立确定的 CC 连接用于发送 BMC 协议，那么我们就可以使用左边的 CC 以200ms 切换，轮回连接至右边的 CC，然后使用 MCUのADC 来读取 CC 电压。</p><h4 id="判断思路"><a href="#判断思路" class="headerlink" title="判断思路"></a>判断思路</h4><p>已知2组 CC 最后会变成 CC+NC 或者 CC+VCONN 在这个例子下，但是这里我不打算做VCONN检测逻辑(个人偏好日常使用带有5A~Emark)，所以只需要考虑如何分辨:</p><ul><li>0.0~0.3V NC</li><li>0.4~0.8V VCONN</li><li>1.2~2.1V CC</li><li>2.1V+ Unconnected</li></ul><p>上面规定了 CC 从 0-3.3V(36kΩ) 或者 0-5V(56kΩ) 上拉下的所有定义情况，所以我们循环扫描的逻辑 200ms 间隔停止的时候，就是 ADC 到当下电压处于 1.2~2.1V 时。此时我们就可以确认 CC 建立了正确的连接。</p><div class="note note-danger">            <p>现在看来这也成了本次项目失败的一个因素</p>          </div> <h4 id="特性分析"><a href="#特性分析" class="headerlink" title="特性分析"></a>特性分析</h4><p>为什么这么说呢，那是因为小米的A口充电头本来就不属于标准 PD，他是使用的 A口的 Pin:5 作为一条无法改变的 CC 通道(A口不支持正反插)，至于为 Emark(电子标签) 服务的 VCONN 呢? 那当然是砍掉了，取而代之的是一个全新的魔改标签，因为失去了 VCONN 供电，所以该方案从 VBUS 上直接取电，但是我觉得他严格意义上来说已经不能叫做标签了，应该称为寄存器。小米私有寄存器的内部包含了完整的 LDO+ROM+SOP+ID 采用 USON-8(DFN-8) 封装(2024.3) 后续新版的AC线改成了 DFN-8(2*2mm) 我选择的是老版的( )   </p><p>就像图上这个印着小米 Logo 的定制芯片：<br><img src="/img/blog/MI120-AC-2/MI120-AC-B.jpg" alt="Bottom"></p><h4 id="魔改代价"><a href="#魔改代价" class="headerlink" title="魔改代价"></a>魔改代价</h4><p>那么这么做的代价是什么呢，答案是融合了 A口的工作逻辑以及协议 + C口的工作逻辑但是不包含翻转的环节，只用于 PD 协议。</p><h4 id="角色转换"><a href="#角色转换" class="headerlink" title="角色转换"></a>角色转换</h4><p>那么既然存在两种工作模式，那么就代表着需要使用特殊的方式来切换，那么小米做的是复位逻辑<br>具体的操作就是读取 CC 电压：</p><ul><li>2.1-3.3V USBA Mode</li><li>1.2-2.1V USBC Mode</li><li>0.8-1.2V USBC Err</li><li>0.0-0.8V USBC Reset</li></ul><h4 id="复位特性"><a href="#复位特性" class="headerlink" title="复位特性"></a>复位特性</h4><div class="note note-danger">            <p>复位将会导致 VBUS 电压归0</p>          </div> <p>这对于本次的项目来说意味着彻底的失败，数字电路于模拟电路的有缺也就体现在这里了，在数字电路下由于复位的时候 MCU 完全离电了，导致我不能对 MCU 执行任何操作。<br><img src="/img/blog/MI120-AC-2/MI120-AC-Test.jpg" alt="XIAOMI Pad5 Pro Mobile"><br>这也就导致了由于硬件电路存在一个下拉电阻，所以可以实现单面转接，但是一但涉及到翻面的时候就会出现我一动 CC 就会导致复位，复位就导致了系统重启、掉电；这期间我无法对 MCU 执行任何操作，无法切换到正确的 CC 上来继续获取电力。</p><h4 id="外置供电"><a href="#外置供电" class="headerlink" title="外置供电"></a>外置供电</h4><p>那么解决方案很简单，让系统不掉电不就行了(x)<br><img src="/img/blog/MI120-AC-2/MI120-AC-Solution.jpg" alt="AC with Large Csys"><br>的确，通过外挂一个超级大的电容确实可以扛过 0.4s 的复位掉电时间，但是问题是体积呢?</p><h4 id="记忆存储"><a href="#记忆存储" class="headerlink" title="记忆存储"></a>记忆存储</h4><p>还有一种之前想到的方案，但是很快被我自己否决了：<br>我有想过因为只有操作 CC 才会导致掉电，那么其实掉电时间我们是可以预知的。换句话说我们可以在掉电前保存当前的 CC 通道状态，然后下次启动的一瞬间就加载，理论上和我模拟方案一样，只要在 10ms 内能够正确连接 CC 就能赶上小米 50ms 的复位 CD。但是另外一个问题就是，你都等你再一次上电的时候再去操作 CC 已经晚了因为等你触发复位后上电，此时协议已经握手完了，然后由于你没有在这个期间内加载好 CC，所以再次上电的时候进入的是小米的 USBA Mode，此时上电的瞬间操作 CC 会导致再次出发复位逻辑，从而陷入死循环… …</p><h4 id="公版特性"><a href="#公版特性" class="headerlink" title="公版特性"></a>公版特性</h4><p>还有过一个想法是试试公版 PD 的特性是否在小米魔改 PD 上得到了保留，指上电9s内握手 PD 后可以切换 PDO，角色等待一些列东西，后续就只能切换申请的 PDO 档位了。<br><img src="/img/blog/MI120-AC-2/MI120-AC-Test-MIPPS.jpg" alt="CC Logic"><br>那么就飞线测试了一下，简单来说就是上电前默认 5.1kΩ 下拉这样第一次上电就进入了小米充电头的 USBC PD Mode 可以无痛免去重启，但是很遗憾的是在转接头里面默认加一个 5.1kΩ 下拉会导致 PD Source 进入保护模式。即类似那种单 USBC 转很多接口的线，此时充电头为了保护设备会锁定 PDO -&gt; Vsafe(5V)。这样就导致了提前下拉 5.1kΩ 在接入第二个 Try.sink 设备会导致最大只能获取到 5V@3A(15W) 的档位。以及在面对一个 Try.Sink 设备比如手机，平板或者电脑的时候会触发此类角色转换为 Source 角色，以及顺带触发 OTG 模式，使得这里本来期望的作为受电角色的设备转化为 Host。  </p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>那么到这里我已经宣布放弃数字方案实现的转接了，准备转向集成转接头的逻辑电路到 Source 里面，这样可以实现整个系统不会因为充电头本来的 Vout 被复位而导致的系统 Vsys 断电。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>XIAOMI</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>XIAOMI</tag>
+      
+      <tag>STM32</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>JLink V11</title>
+    <link href="/2024/06/29/JLink-V11_zh_CN/"/>
+    <url>/2024/06/29/JLink-V11_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>抄板 V11 已完成，绘制中</p>          </div> <h4 id="对比-V3-的-F723-下来，感觉-LPC-好小哇"><a href="#对比-V3-的-F723-下来，感觉-LPC-好小哇" class="headerlink" title="对比 V3 的 F723 下来，感觉 LPC 好小哇"></a>对比 V3 的 F723 下来，感觉 LPC 好小哇</h4><p><img src="/img/blog/Jlink-V11/Jlink-V11.jpg" alt="Jlink V11 + ST-Link V3"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+      <tag>Segger</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ST-Link V3</title>
+    <link href="/2024/06/29/ST-Link-V3_zh_CN/"/>
+    <url>/2024/06/29/ST-Link-V3_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>正在鸽一个 V3 的改版中</p>          </div> <h4 id="相比于我之前做的-V2-1-真的快太多了"><a href="#相比于我之前做的-V2-1-真的快太多了" class="headerlink" title="相比于我之前做的 V2.1 真的快太多了"></a>相比于我之前做的 V2.1 真的快太多了</h4><p><img src="/img/blog/ST-Link-V3/ST-Link-V3-1.jpg" alt="R45"></p><h4 id="u1s1，STのBGA-贴的真紧"><a href="#u1s1，STのBGA-贴的真紧" class="headerlink" title="u1s1，STのBGA 贴的真紧"></a>u1s1，STのBGA 贴的真紧</h4><p><img src="/img/blog/ST-Link-V3/ST-Link-V3-2.jpg" alt="SF-BGA"></p><p>ST-Link V3 + STM32CubeProgrammer 擦除+写入一片 64KBのG031 差不多 0.2S，24000 速率下(Xd)</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+      <tag>ST</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Links</title>
+    <link href="/2024/06/02/Links-Debugger&amp;Programmer_zh_CN/"/>
+    <url>/2024/06/02/Links-Debugger&amp;Programmer_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>下图中出现的 Link 均已经全部开源</p>          </div> <p>以后不会做这些调试器了，要的可以去我仓库里面找：</p><p><img src="/img/blog/Links-Debugger&Programmer/Links-Debugger&Programmer.jpg" alt="Waline"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>WCH-LinkE</title>
+    <link href="/2024/06/02/WCH-LinkE_en_US/"/>
+    <url>/2024/06/02/WCH-LinkE_en_US/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-info">            <p>你可以在我的<a href="https://x.jlc.com/platform/detail/112563caff0b4e818ca456a768e80dff">硬创社</a>浏览中文版本</p>          </div> <h1 id="WCH-LinkE-Rev2-1-06-02-2024"><a href="#WCH-LinkE-Rev2-1-06-02-2024" class="headerlink" title="WCH-LinkE Rev2.1 06-02-2024"></a>WCH-LinkE Rev2.1 06-02-2024</h1><p>OpenSource (CC BY-NC)<br>Author: Canmi(21)</p><h2 id="What-is-the-purpose-of-this"><a href="#What-is-the-purpose-of-this" class="headerlink" title="What is the purpose of this?"></a>What is the purpose of this?</h2><p>WCH-LinkE is a multifunctional programmer and debugger designed primarily for WCH microcontrollers. It serves several key purposes:</p>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-ff9c3591" role="button" aria-expanded="false" aria-controls="collapse-ff9c3591">        <div class="fold-arrow">▶</div>WCH-LinkE      </div>      <div class="fold-collapse collapse" id="collapse-ff9c3591">        <div class="fold-content">          <ul><li><p>Programming: The WCH-LinkE is used to program WCH microcontrollers. It supports a variety of microcontroller models, enabling developers to upload their firmware onto the target devices efficiently.</p></li><li><p>Debugging: It offers powerful debugging capabilities, including breakpoints, watchpoints, and step-by-step execution. This helps developers identify and fix issues in their code by allowing them to monitor and control the execution of their programs in real-time.</p></li><li><p>Compatibility: WCH-LinkE supports multiple debugging interfaces such as JTAG and SWD (Serial Wire Debug), making it a versatile tool for embedded development.</p></li><li><p>Integration: It is compatible with popular Integrated Development Environments (IDEs) such as Keil MDK, IAR EWARM, and others, providing a seamless development experience.</p></li><li><p>Affordability: As a cost-effective solution, WCH-LinkE is accessible to hobbyists, students, and professionals, making it a popular choice for a wide range of embedded system projects.</p></li></ul>        </div>      </div>    </div><h2 id="Project-Attributes"><a href="#Project-Attributes" class="headerlink" title="Project Attributes"></a>Project Attributes</h2><h3 id="Layer-4-JLC3313-0-3-0-45"><a href="#Layer-4-JLC3313-0-3-0-45" class="headerlink" title="Layer: 4 JLC3313 0.3&#x2F;0.45"></a>Layer: 4 JLC3313 0.3&#x2F;0.45</h3><ul><li>L1 1.0oZ </li><li>L2 0.5oZ </li><li>L3 0.5oZ </li><li>L4 1.0oZ</li></ul><h3 id="EDA-LCEDA-PRO-EasyEDA"><a href="#EDA-LCEDA-PRO-EasyEDA" class="headerlink" title="EDA: LCEDA PRO (EasyEDA)"></a>EDA: LCEDA PRO (EasyEDA)</h3><ul><li>Provide Gerber image for download.</li></ul><p><img src="/img/blog/WCH-LinkE/WCH-LinkE_F.webp" alt="Front"><br><img src="/img/blog/WCH-LinkE/WCH-LinkE_B.webp" alt="Bottom"></p><h2 id="What-makes-it-special"><a href="#What-makes-it-special" class="headerlink" title="What makes it special?"></a>What makes it special?</h2><ul><li>It is smaller than the original WCH-LinkE.</li><li>It supports switching between JTAG and SWD via touch.</li><li>It supports online firmware upgrades.</li></ul><p><img src="/img/blog/WCH-LinkE/WCH-LinkE_F_D.jpg" alt="Front"><br><img src="/img/blog/WCH-LinkE/WCH-LinkE_B_D.jpg" alt="Bottom"></p><h2 id="OpenSource-CC-BY-NC"><a href="#OpenSource-CC-BY-NC" class="headerlink" title="OpenSource (CC BY-NC)"></a>OpenSource (CC BY-NC)</h2><h3 id="SCH-Download"><a href="#SCH-Download" class="headerlink" title="SCH Download"></a>SCH <a href="https://github.com/Canmi21/WCH-LinkE/blob/main/SCH_WCH-LinkE_2024-06-04.pdf">Download</a></h3><p><img src="/img/blog/WCH-LinkE/SCH_Rev2.1.png" alt="SCH"></p><h3 id="iBOM-View"><a href="#iBOM-View" class="headerlink" title="iBOM View"></a>iBOM <a href="https://github.com/Canmi21/WCH-LinkE/blob/main/WCH-LinkE_2024-6-4.html">View</a></h3><ul><li>Go to Github and download it and open the “.html” in your browser.</li></ul><h3 id="Gerber-Download"><a href="#Gerber-Download" class="headerlink" title="Gerber Download"></a>Gerber <a href="https://github.com/Canmi21/WCH-LinkE/tree/main/Gerber">Download</a></h3><h2 id="Upgrade"><a href="#Upgrade" class="headerlink" title="Upgrade"></a>Upgrade</h2><p><img src="/img/blog/WCH-LinkE/WCH-LinkE_Upgrade.jpg" alt="Upgrade"></p><h2 id="WCH-Mode-WinUSB"><a href="#WCH-Mode-WinUSB" class="headerlink" title="WCH-Mode (WinUSB)"></a>WCH-Mode (WinUSB)</h2><p><img src="/img/blog/WCH-LinkE/WCH-LinkE_Mode.jpg" alt="Mode"></p><h3 id="Firmware-Download"><a href="#Firmware-Download" class="headerlink" title="Firmware Download"></a>Firmware <a href="https://github.com/Canmi21/WCH-LinkE/blob/main/WCH-LinkE-APP-IAP.bin">Download</a></h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>Debugger</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>WCH</tag>
+      
+      <tag>Debugger</tag>
+      
+      <tag>Programmer</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>en_US</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Github 2nd</title>
+    <link href="/2022/11/22/Github-2nd_zh_CN/"/>
+    <url>/2022/11/22/Github-2nd_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-warning">            <p>此文件来自过去的时间线  </p>          </div> <p><img src="/img/blog/Github-2nd/Github-2nd.webp" alt="Github 热力图·2022年"></p><p>有点好奇2022年自己都在写些什么内容）没记错的话当时用的应该是Java SE8 &amp; JDK8</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Github</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/06/15/Hello-World_zh_CN/"/>
+    <url>/2021/06/15/Hello-World_zh_CN/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-danger">            <p>此文件时间过于久远不具备时效性</p>          </div> <div class="note note-warning">            <p>此文件来自过去的时间线  </p>          </div> <div class="note note-warning">            <p>此文件根据记忆所恢复</p>          </div> <p>这应该是我能找到的有记录以来最远的时间线，21年的自己应该很难想象现在的我在干什么）虽然当时的文件不是用 MarkDown 写的，但是从这一天启往后发生的事情我都会用 Blog 的形式复原。给自己留下一个完整的故事线，那么”今天”就是梦开始的地方。</p><p id="time-elapsed"></p><script>    // 计算经过的时间函数：String -> String    const calculateElapsedTime = startDate => {        const start = new Date(startDate);        const now = new Date();        const diff = now - start; // 时间差，单位为毫秒        const years = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));        const days = Math.floor((diff % (1000 * 60 * 60 * 24 * 365)) / (1000 * 60 * 60 * 24));        const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));        const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));        const seconds = Math.floor((diff % (1000 * 60)) / 1000);        return `${years}y ${days}d ${hours}h ${minutes}m ${seconds}s`;    };    // 更新元素内容的函数：HTMLElement -> String -> ()    const updateElement = obj => str => obj.innerHTML = str;    // 页面加载后执行    document.addEventListener("DOMContentLoaded", () => {        const startDate = "2021-06-15T00:00:00";        const timeElapsedElement = document.getElementById("time-elapsed");        // 更新元素内容的函数        const updateTimeElapsed = updateElement(timeElapsedElement);        // 初始化调用，显示初始值        updateTimeElapsed(`故事已经开始了 ${calculateElapsedTime(startDate)}`);        // 1s更新一次显示的时间        setInterval(() => {            updateTimeElapsed(`故事已经开始了 ${calculateElapsedTime(startDate)}`);        }, 1000);    });</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Hello</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>zh_CN</tag>
+      
+      <tag>Moment</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
